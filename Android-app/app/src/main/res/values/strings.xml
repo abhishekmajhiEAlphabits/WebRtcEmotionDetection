@@ -7,4 +7,9 @@
     <string name="status_failed">Failed</string>
     <string name="connect_btn">Connect</string>
     <string name="status_finished">Finished</string>
+    <string name="pick_image_button">Pick an image</string>
+    <string name="take_photo_button">Take a photo</string>
+    <string name="classification_delimiter_text_view">-</string>
+    <string name="face">Face</string>
+    <string name="faceless">No face detected</string>
 </resources>
